@@ -46,15 +46,15 @@ footer {
 .foot{
     text-align: center;
 }
+h1{
+}
 .head{
-    position: absolute;
-    left: 650px;
+    padding-left: 50%;
 }
 h1 img{
     width: 80px;
     height: 60px;
     float: left;
-    position: relative;
 }
 .right-sidebar img{
     padding: 5px;
